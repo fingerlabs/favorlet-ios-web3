@@ -4,7 +4,7 @@ Pod::Spec.new do |spec|
     spec.name         = 'FavorletWeb3Core'
     spec.version      = '3.0.7'
     spec.module_name  = 'Core'
-    spec.ios.deployment_target = "15.0"
+    spec.ios.deployment_target = "13.0"
     spec.osx.deployment_target = "10.15"
     spec.license      = { :type => 'Apache License 2.0', :file => 'LICENSE.md' }
     spec.summary      = 'Core of web3swift library'
